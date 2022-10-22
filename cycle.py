@@ -38,4 +38,3 @@ class Cycle:
 #print(bsaslrcycle.brakes)
 herocycle2 = Cycle(2,2,"medium")
 print(herocycle2.brakes)
-
